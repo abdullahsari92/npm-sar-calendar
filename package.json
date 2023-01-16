@@ -1,0 +1,51 @@
+{
+  "name": "sar-calendar",
+  "version": "0.0.3",
+  "description": "Takvim tasarımı.",
+  "peerDependencies": {
+    "@angular/common": "^13.0.0",
+    "@angular/core": "^13.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdullahsari92/angular-sar-calendar-use.git"
+  },
+  "keywords": [
+    "auto",
+    "calendar",
+    "angular",
+    "frontend",
+    "front end",
+    "front-end",
+    "sar"
+  ],
+  "author": "Abdullah SARI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdullahsari92/angular-calendar-library/issues"
+  },
+  "homepage": "https://github.com/abdullahsari92/angular-calendar-library/blob/main/projects/auto-focus#README",
+  "module": "fesm2015/sar-calendar.mjs",
+  "es2020": "fesm2020/sar-calendar.mjs",
+  "esm2020": "esm2020/sar-calendar.mjs",
+  "fesm2020": "fesm2020/sar-calendar.mjs",
+  "fesm2015": "fesm2015/sar-calendar.mjs",
+  "typings": "sar-calendar.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./sar-calendar.d.ts",
+      "esm2020": "./esm2020/sar-calendar.mjs",
+      "es2020": "./fesm2020/sar-calendar.mjs",
+      "es2015": "./fesm2015/sar-calendar.mjs",
+      "node": "./fesm2015/sar-calendar.mjs",
+      "default": "./fesm2020/sar-calendar.mjs"
+    }
+  },
+  "sideEffects": false
+}

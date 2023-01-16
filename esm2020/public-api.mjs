@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of sar-calendar
+ */
+export * from './lib/sar-calendar.service';
+export * from './lib/sar-calendar.component';
+export * from './lib/sar-calendar.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL3Nhci1jYWxlbmRhci9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsNEJBQTRCLENBQUM7QUFDM0MsY0FBYyw4QkFBOEIsQ0FBQztBQUM3QyxjQUFjLDJCQUEyQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLypcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBzYXItY2FsZW5kYXJcbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL2xpYi9zYXItY2FsZW5kYXIuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9zYXItY2FsZW5kYXIuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL3Nhci1jYWxlbmRhci5tb2R1bGUnO1xuIl19
