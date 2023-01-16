@@ -3,7 +3,7 @@ Angular da kullanabileceğiniz Takvim kütüphanesi
 
 <div align="center">
 
-# sar-calendar
+# sar-calendar 0.0.8
 </div>
 
 ## Installation
